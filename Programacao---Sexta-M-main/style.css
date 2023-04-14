@@ -1,0 +1,17 @@
+* {
+    padding:0;
+    margin:0;
+}
+.cabeçalho {
+    background-color: #383D58;
+    display: flex;
+
+}
+
+.cabeçalho-imagem {
+    padding: 15px;
+    margin: 15px;
+    width:10%;
+    right: 10%;
+
+}
